@@ -11,3 +11,16 @@ C:\Users\tatarinov.av1243\source\repos\pz1\pz1\obj\Debug\netcoreapp3.1\pz1.cspro
 C:\Users\tatarinov.av1243\source\repos\pz1\pz1\obj\Debug\netcoreapp3.1\pz1.dll
 C:\Users\tatarinov.av1243\source\repos\pz1\pz1\obj\Debug\netcoreapp3.1\pz1.pdb
 C:\Users\tatarinov.av1243\source\repos\pz1\pz1\obj\Debug\netcoreapp3.1\pz1.genruntimeconfig.cache
+C:\Users\tatarinov.av1243\Source\Repos\flagik228\tatarinov3pk1_2semestr\pz1\bin\Debug\netcoreapp3.1\pz1.exe
+C:\Users\tatarinov.av1243\Source\Repos\flagik228\tatarinov3pk1_2semestr\pz1\bin\Debug\netcoreapp3.1\pz1.deps.json
+C:\Users\tatarinov.av1243\Source\Repos\flagik228\tatarinov3pk1_2semestr\pz1\bin\Debug\netcoreapp3.1\pz1.runtimeconfig.json
+C:\Users\tatarinov.av1243\Source\Repos\flagik228\tatarinov3pk1_2semestr\pz1\bin\Debug\netcoreapp3.1\pz1.runtimeconfig.dev.json
+C:\Users\tatarinov.av1243\Source\Repos\flagik228\tatarinov3pk1_2semestr\pz1\bin\Debug\netcoreapp3.1\pz1.dll
+C:\Users\tatarinov.av1243\Source\Repos\flagik228\tatarinov3pk1_2semestr\pz1\bin\Debug\netcoreapp3.1\pz1.pdb
+C:\Users\tatarinov.av1243\Source\Repos\flagik228\tatarinov3pk1_2semestr\pz1\obj\Debug\netcoreapp3.1\pz1.csprojAssemblyReference.cache
+C:\Users\tatarinov.av1243\Source\Repos\flagik228\tatarinov3pk1_2semestr\pz1\obj\Debug\netcoreapp3.1\pz1.AssemblyInfoInputs.cache
+C:\Users\tatarinov.av1243\Source\Repos\flagik228\tatarinov3pk1_2semestr\pz1\obj\Debug\netcoreapp3.1\pz1.AssemblyInfo.cs
+C:\Users\tatarinov.av1243\Source\Repos\flagik228\tatarinov3pk1_2semestr\pz1\obj\Debug\netcoreapp3.1\pz1.csproj.CoreCompileInputs.cache
+C:\Users\tatarinov.av1243\Source\Repos\flagik228\tatarinov3pk1_2semestr\pz1\obj\Debug\netcoreapp3.1\pz1.dll
+C:\Users\tatarinov.av1243\Source\Repos\flagik228\tatarinov3pk1_2semestr\pz1\obj\Debug\netcoreapp3.1\pz1.pdb
+C:\Users\tatarinov.av1243\Source\Repos\flagik228\tatarinov3pk1_2semestr\pz1\obj\Debug\netcoreapp3.1\pz1.genruntimeconfig.cache

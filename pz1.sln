@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pz1", "pz1\pz1.csproj", "{C51A1DBF-32FE-4E09-8DF2-2098F152F7DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pz1", "pz1\pz1.csproj", "{C51A1DBF-32FE-4E09-8DF2-2098F152F7DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pz2", "pz2\pz2.csproj", "{AEF6D060-280B-413D-AFBA-E20DC7735F25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C51A1DBF-32FE-4E09-8DF2-2098F152F7DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C51A1DBF-32FE-4E09-8DF2-2098F152F7DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C51A1DBF-32FE-4E09-8DF2-2098F152F7DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF6D060-280B-413D-AFBA-E20DC7735F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF6D060-280B-413D-AFBA-E20DC7735F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF6D060-280B-413D-AFBA-E20DC7735F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF6D060-280B-413D-AFBA-E20DC7735F25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

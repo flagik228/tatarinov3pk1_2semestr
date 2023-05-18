@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tatarinov.av1243\\source\\repos\\pz1\\pz1\\pz1.csproj": {}
+    "C:\\Users\\tatarinov.av1243\\Source\\Repos\\flagik228\\tatarinov3pk1_2semestr\\pz1\\pz1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tatarinov.av1243\\source\\repos\\pz1\\pz1\\pz1.csproj": {
+    "C:\\Users\\tatarinov.av1243\\Source\\Repos\\flagik228\\tatarinov3pk1_2semestr\\pz1\\pz1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tatarinov.av1243\\source\\repos\\pz1\\pz1\\pz1.csproj",
+        "projectUniqueName": "C:\\Users\\tatarinov.av1243\\Source\\Repos\\flagik228\\tatarinov3pk1_2semestr\\pz1\\pz1.csproj",
         "projectName": "pz1",
-        "projectPath": "C:\\Users\\tatarinov.av1243\\source\\repos\\pz1\\pz1\\pz1.csproj",
+        "projectPath": "C:\\Users\\tatarinov.av1243\\Source\\Repos\\flagik228\\tatarinov3pk1_2semestr\\pz1\\pz1.csproj",
         "packagesPath": "C:\\Users\\tatarinov.av1243\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tatarinov.av1243\\source\\repos\\pz1\\pz1\\obj\\",
+        "outputPath": "C:\\Users\\tatarinov.av1243\\Source\\Repos\\flagik228\\tatarinov3pk1_2semestr\\pz1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
